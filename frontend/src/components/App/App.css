@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #07F1F1;
+  color: #F74A4A;
+  width: 100%;
+  text-align: center;
+  font-family: "Staatliches";
+  font-size: 60px;
+}
+
+body {
+  background-color: #F6A66B;
+}
+
+button {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 160px;
+  height: 75px;
+  font-family: "Staatliches";
+  border-radius: 0;
+  font-size: 25px;
+  background-color: #50CCF1;
+  border: solid 5px blue;
+}
+
+.results {
+  font-family: "Staatliches";
+  font-size: 25px;
+}

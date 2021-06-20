@@ -1,0 +1,23 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.pokemonContainer {
+    width: 250px;
+    height: 320px;
+    background-color: #FA5E5E;
+    display: inline-block;
+    margin: 20px;
+    font-family: 'Staatliches';
+    border: solid 5px darkred;
+}
+
+.stats {
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 0 auto;
+    
+}
